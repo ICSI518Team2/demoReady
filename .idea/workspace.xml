@@ -161,6 +161,7 @@
     <session id="521410434">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -179,11 +180,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1814">
-              <caret line="353" column="5" selection-start-line="353" selection-start-column="5" selection-end-line="353" selection-end-column="5" />
+            <state relative-caret-position="-1059">
+              <caret line="262" column="9" lean-forward="true" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1207#1213#0" expanded="true" />
@@ -196,8 +197,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/EmailService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+            <state relative-caret-position="1003">
+              <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -229,7 +230,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/Review.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
@@ -274,8 +275,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/allproducts.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="132" column="35" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="35" />
+            <state relative-caret-position="2227">
+              <caret line="131" column="35" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -510,6 +511,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30738255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -686,27 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/allproducts.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" column="35" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/EmailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1814">
-          <caret line="353" column="5" selection-start-line="353" selection-start-column="5" selection-end-line="353" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1207#1213#0" expanded="true" />
-            <element signature="e#1255#1261#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2227">
+          <caret line="131" column="35" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -723,6 +706,25 @@
           <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/EmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hemanshu/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1059">
+          <caret line="262" column="9" lean-forward="true" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1207#1213#0" expanded="true" />
+            <element signature="e#1255#1261#0" expanded="true" />
           </folding>
         </state>
       </provider>
